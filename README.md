@@ -21,6 +21,7 @@ Source: [Getting to Know KubeVirt](https://kubernetes.io/blog/2018/05/22/getting
 - [kubevirt-disk-uploader](https://github.com/codingben/kubevirt-disk-uploader) - Extracts disk and uploads it to a container registry
 - [kubevirt-console-debugger](https://github.com/davidvossel/kubevirt-console-debugger) - Stream KubeVirt VM console logs
 - [kubevirt-manager](https://github.com/kubevirt-manager/kubevirt-manager) - Easily Manage KubeVirt Workloads with a Friendly Web UI
+- [kubevirt-gitops](https://github.com/cwilkers/kubevirt-gitops) - Managing KubeVirt VMs and DataVolumes using a GitOps workflow
 
 ## Useful Resources
 
