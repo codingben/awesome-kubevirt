@@ -32,6 +32,7 @@ Source: [Getting to Know KubeVirt](https://kubernetes.io/blog/2018/05/22/getting
 - [Introduction to KubeVirt, Virtual Machines on Kubernetes](https://www.youtube.com/watch?v=JniNepFJHLs)
 - [Using KubeVirt to Run VMs at Scale](https://www.youtube.com/watch?v=zLQA-YUQg1k)
 - [Pixels down the Pipe: Powering GeForce NOW with KubeVirt](https://www.youtube.com/watch?v=TJPOR98MKV8)
+- [VM Infrastructure as Code with KubeVirt & ArgoCD](https://www.youtube.com/watch?v=H_4VYSlI9k8)
 
 ## Communities
 
